@@ -1,0 +1,140 @@
+* {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.mainlogin {
+  box-sizing: border-box;
+
+  padding: 6rem;
+  border-outline: none;
+  margin-right: -1rem;
+}
+.logo {
+  height: 54px;
+  margin-left: -86rem;
+  padding: 7px;
+  border-bottom: 1px solid #e0e0e0;
+}
+.mainlogin h1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0;
+  color: #161616;
+  margin-left: -77rem;
+  margin-top: -4rem;
+
+  padding-bottom: 2rem;
+}
+.user {
+  margin-left: -78rem;
+  font-size: 2rem;
+  line-height: 1.25;
+  padding: 0 1rem;
+}
+.logo:hover {
+  background-color: #e0e0e0;
+}
+.icon {
+  height: 14px;
+  margin-left: 47px;
+}
+input {
+  padding: 16px;
+  padding-left: 57px;
+  padding-right: 154px;
+  margin-right: -74px;
+  border: none;
+  background-color: #f4f4f4;
+  border-bottom: 1px solid #8d8d8d;
+  letter-spacing: 0.16px;
+}
+.uid {
+  font-size: 0.75rem;
+  color: #525252;
+  margin-left: -88px;
+}
+.username {
+  margin-left: 157px;
+}
+.btn {
+  margin-left: -1101px;
+  margin-top: 25px;
+  background-color: #0f62fe;
+  color: white;
+  border: none;
+  padding: 14px;
+  padding-right: 7px;
+}
+.arrow {
+  height: 16px;
+  padding-left: 288px;
+}
+.mainbtn {
+  margin-left: 13px;
+}
+input.check {
+  height: 1rem;
+  margin-top: 1rem;
+  margin-left: -100rem;
+  width: 21px;
+}
+.lcheck {
+  color: #525252;
+
+  margin-left: -81rem;
+  margin-top: -23px;
+  font-size: 17px;
+}
+.checkbox {
+  margin-left: 80px;
+}
+
+.logobg {
+  border: 1px solid;
+  width: 100vw;
+}
+.line1 {
+  margin-top: -7px;
+  margin-right: -2rem;
+}
+.line2 {
+  margin-top: 43px;
+  margin-left: -63px;
+}
+.logline {
+  margin-left: -64px;
+}
+.leftimg {
+  float: right;
+  width: 63rem;
+  margin-top: -333px;
+}
+.passwid {
+  font-size: 0.75rem;
+  color: #525252;
+  margin-left: -170px;
+  margin-top: 20px;
+}
+input#password {
+  margin-left: 157px;
+}
+.img2 {
+  margin-top: -87px;
+}
+.info-message {
+  border: 1px solid;
+  background: #393939;
+  color: #ffffff;
+  max-width: 317px;
+}
+.error {
+  margin-left: -73rem;
+  margin-top: 18px;
+}
+.acc p {
+  margin-top: 27px;
+  color: grey;
+  margin-left: -19rem;
+}
